@@ -6,7 +6,7 @@
 - 📖 [객체지향의 사실과 오해](OOP/객체지향의사실과오해.md)
 - 📖 [오브젝트](OOP/오브젝트.md)
 
-## HTML5
+## HTML
 - [HTML5 기본문법](HTML5/HTML5기본문법.md)
 - [웹페이지를 구성하는 기본 태그](HTML5/웹페이지를구성하는기본태그.md)
 - [텍스트 관련 태그](HTML5/텍스트관련태그.md)
@@ -17,7 +17,7 @@
 - [레이아웃 구성을 위한 공간 분할 태그](HTML5/%EA%B3%B5%EA%B0%84%EB%B6%84%ED%95%A0%ED%83%9C%EA%B7%B8.md)
 
 ## JavaScript
-- 📖 [모던자바스크립트 DeepDive](JavaScript/모던자바스크립트DeepDive.md)
+- 📖 [모던자바스크립트 DeepDive](JavaScript/모던자바스크립트DeepDive/목차.md)
 
 ## Git
 - [Git Config](Git/gitconfig.md)
