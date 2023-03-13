@@ -10,6 +10,7 @@
 ## 📌 Language
 - JavaScript
 - TypeScript
+- Java
 
 ## 📌 Web
 - [HTML](./HTML/목차.md)
